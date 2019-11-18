@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Microsoft.AspNetCore.Http
+
+
+<!-- Masthead -->
+<header class="masthead bg-primary text-white text-center">
+    <div class="container d-flex align-items-center flex-column">
+
+        <!-- Masthead Avatar Image -->
+        <img class="masthead-avatar mb-5" src="/img/popcorn.svg" alt="">
+
+        <!-- Masthead Heading -->
+        <h1 class="masthead-heading text-uppercase mb-0">Free Movie</h1>
+
+        <!-- Icon Divider -->
+        <div class="divider-custom divider-light">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon">
+                <i class="fas fa-star"></i>
+            </div>
+            <div class="divider-custom-line"></div>
+        </div>
+
+        <!-- Masthead Subheading -->
+        <div class="align-content-center">
+            <p class="text-white-75 font-weight-light mb-5">Just select movie from the list</p>
+            @if (Context.Session.GetString("token") == null || !CurrentUser.Users.ContainsKey(Context.Session.GetString("token")))
+            {
+                <a class="btn btn-warning btn-xl js-scroll-trigger" asp-area="" asp-controller="User" asp-action="Login">Sign In</a>
+                <a class="btn btn-warning btn-xl js-scroll-trigger" asp-area="" asp-controller="User" asp-action="SignUp">Sign Up</a>
+            }
+            else
+            {
+        <a class="btn btn-warning btn-xl js-scroll-trigger" asp-area="" asp-controller="Movie" asp-action="Index">Enjoy Movie!</a>
+                <a class="btn btn-warning btn-xl js-scroll-trigger" asp-area="" asp-controller="User" asp-action="Logout" asp-route-id="@CurrentUser.Users[Context.Session.GetString("token")].UserId">Sign Out</a>
+            }
+        </div>
+
+    </div>
+</header>
+

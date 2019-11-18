@@ -1,0 +1,165 @@
+﻿@model MovieApp.Models.TblMovie
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = Model.MovieName;
+}
+
+<head>
+    <style>
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 412px auto auto auto;
+        background-color: #4F4239;
+        padding: 10px;
+        background: rgba(225, 225, 225, .4);
+    }
+
+    .grid-item {
+        background-color: #7A6D65;
+        padding: 20px;
+        font-size: 30px;
+        text-align: left;
+        background: rgba(225, 225, 225, .4);
+    }
+
+    .title {
+        grid-column: 1 /span 4;
+        grid-row: 1;
+    }
+
+    .a {
+        grid-column: 1;
+        grid-row: 2 / span 2;
+    }
+
+    .b {
+        grid-column: 2 /span 3;
+        grid-row: 2;
+    }
+
+    .c {
+        grid-column: 2 /span 3;
+        grid-row: 3;
+    }
+
+    .d {
+        grid-column: 1 /span 4;
+        grid-row: 4;
+    }
+
+    #movie_title {
+        font-size: medium;
+    }
+
+    .e {
+        grid-column: 1 /span 4;
+        grid-row: 5;
+        background-color: #3e2723;
+        padding: 10px 27px 10px 27px;
+        border-radius: 10px;
+    }
+
+    small {
+        font-size: 12px;
+    }
+
+    #comment {
+        background-color: #80cbc4;
+        border: 1px solid #fff;
+        padding-bottom:10px;
+    }
+
+  </style>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&display=swap" rel="stylesheet">
+</head>
+<section class="page-section movie" style="        margin-top: 15px;">
+    <div class="container">
+        <div class="grid-container">
+            <div class="grid-item title">
+                <div style="        font-family: 'PT Sans Caption', sans-serif;
+        font-weight: bold">
+                    @Html.DisplayFor(model => model.MovieName)&nbsp;(@Html.DisplayFor(model => model.Year.Value.Year))
+                    <div id="movie_title"> Directed by @Html.DisplayFor(model => model.Director)</div>
+                    <span>
+                        <a asp-action="AddLikesDislikes" asp-route-id="@Model.MovieId" asp-route-up=true>
+                            <img src="~/img/thumbs/thumbs_up.png" alt="Thumbs Up" width="30" />
+                        </a>
+                        <small>@Html.DisplayFor(model => model.Likes)</small>
+                        <br />
+                        <a asp-action="AddLikesDislikes" asp-route-id="@Model.MovieId" asp-route-up=false>
+                            <img src="~/img/thumbs/thumbs_down.png" alt="Thumbs Down" width="30" />
+                        </a>
+                        <small>@Html.DisplayFor(model => model.Dislikes)</small>
+                    </span>
+                </div>
+
+            </div>
+            <div class="grid-item a">
+                <img style="        width: 370px;
+        height: 490px;
+        float: left;
+        padding-bottom: 10px;
+        padding-right: 10px;" src="@Html.DisplayFor(model => model.PosterLink)">
+            </div>
+            <div class="grid-item b">
+                @Html.Raw(Model.TrailerLink)
+            </div>
+            <div class="grid-item c">
+                <p style="        font-family: TiemposTextWeb-Regular,Georgia,serif">
+                    @Html.DisplayFor(model => model.Synopsis)
+                </p>
+            </div>
+            <div class="grid-item d">
+
+                <form asp-action="Create" asp-controller="Comment" asp-route-movieId="@Model.MovieId">
+                    <div class="input-group" style="        width: auto">
+                        <textarea class="form-control" id="txtComment" name="txtComment" placeholder="Leave a comment here"></textarea>
+                        <input class="btn btn-primary" type="submit" value="Submit" />
+                    </div>
+                </form>
+            </div>
+
+            <div class="grid-item e">
+                @foreach (var comment in ViewBag.comments)
+                {
+                    <div class="row" id="comment">
+                        <div class="col-1 text-center">
+                            <small style="font-size:14px;font-weight:bold">@comment.User.UserName</small>
+                        </div>
+                        <div class="col">
+                            <small>@comment.Comment</small>
+                        </div>
+                        <div class="col-2 text-center" style="text-align:center">
+                            <small>@comment.Date</small>
+                        </div>
+                        @if (ViewBag.isAdmin == "true")
+                        {
+                            <div class="col">
+                                <form asp-action="Delete" asp-controller="Comment" asp-route-id="@comment.CommentId">
+                                    <input type="submit" value="Delete" />
+                                </form>
+                            </div>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model.MovieId">Edit</a> |
+            <a asp-action="Delete" asp-route-id="@Model.MovieId">Delete</a> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+

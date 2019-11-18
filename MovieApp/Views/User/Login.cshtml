@@ -1,0 +1,67 @@
+﻿@model MovieApp.Models.TblUser
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+
+    .grid-container {
+        display: grid;
+        background-color: #4F4239;
+        padding: 10px;
+        background: rgba(225, 225, 225, .4);
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .grid-item {
+        background-color: #7A6D65;
+        background: rgba(225, 225, 225, .4);
+        font-size: 30px;
+        text-align: left;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 50px;
+        justify-content: center;
+    }
+</style>
+<section class="page-section movie" style="margin-top:15px;">
+    <div class="container">
+        <div class="grid-container">
+            <div class="row grid-item">
+
+                <div class="col-md-8">
+                    <h2>Sign In</h2>
+
+                    <hr />
+                    <form asp-action="Login">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName" class="control-label"></label>
+                            <input asp-for="UserName" class="form-control" autofocus />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label"></label>
+                            <input type="password" asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="submit" value="Send" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div>
+            <a asp-action="Index" asp-controller="Home">Back</a>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

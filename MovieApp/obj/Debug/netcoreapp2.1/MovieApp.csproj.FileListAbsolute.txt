@@ -1,0 +1,736 @@
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+F:\PROG 3050 - Microsoft Enterprise\VideoSelection-userAuth\VideoSelection-userAuth\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\mkariuki3756\Desktop\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\Ykim1059\Downloads\MovieApp-Oct3-v3\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v2\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\MovieApp-Oct3-v3-ui change\MovieApp-Oct3-v3-ui change\MovieApp_Oct6\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\dkang4178\Downloads\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection-LikesAndDislikes\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-LikesAndDislikes\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\clear\Desktop\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+E:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+D:\Term5\PROG3050 MS Enterprise\MovieApp_VersionControl\it5\VideoSelection-RepositoryPattern\VideoSelection_RepositoryPattern\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.dll
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\bin\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.input.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.TagHelpers.output.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorCoreGenerate.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\User\SignUp.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.Views.pdb
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\Ykim1059\Downloads\VideoSelection-FinalSprint\VideoSelection-FinalSprint\MovieApp\obj\Debug\netcoreapp2.1\MovieApp.csproj.CopyComplete

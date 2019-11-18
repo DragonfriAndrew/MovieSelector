@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MovieApp.Models.TblUser>
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="page-section movie" style="margin-top:15px;">
+    <div class="container">
+        <h2>User List</h2>
+        <table class="table">
+            <thead>
+                <tr style="color: white; font-size: larger">
+                    <th>
+                        @Html.DisplayNameFor(model => model.FirstName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.LastName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.UserName)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @if (item.UserId == CurrentUser.Users[Context.Session.GetString("token")].UserId)
+                        {
+                            <td style="color: orange; font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.FirstName)
+                            </td>
+                            <td style="color: orange; font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.LastName)
+                            </td>
+                            <td style="color: orange; font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td style="color: orange; font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                        }
+                        else
+                        {
+
+                            <td style="color: rgba(255, 255, 255, 0.7); font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.FirstName)
+                            </td>
+                            <td style="color: rgba(255, 255, 255, 0.7); font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.LastName)
+                            </td>
+                            <td style="color: rgba(255, 255, 255, 0.7); font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td style="color: rgba(255, 255, 255, 0.7); font-weight: bold">
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                        }
+
+                        <td>
+                            <a style="color: orange" asp-action="Edit" asp-route-id="@item.UserId">Edit</a> |
+                            <a style="color: orange" asp-action="Details" asp-route-id="@item.UserId">Details</a> |
+                            <a style="color: orange" asp-action="Delete" asp-route-id="@item.UserId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
