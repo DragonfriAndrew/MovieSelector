@@ -202,6 +202,15 @@ namespace MovieApp.Controllers
         {
             var tblUser = await _userRepository.GetSingle(id);
             await _userRepository.Delete(id);
+            //CurrentUser.Users.Remove(HttpContext.Session.GetString("token"));
+            foreach (var user in CurrentUser.Users)
+            {
+                if (user.Value.UserId == id)
+                {
+                    CurrentUser.Users.Remove(user.Key);
+                    break;
+                }
+            }
             return RedirectToAction(nameof(Index));
         }
 

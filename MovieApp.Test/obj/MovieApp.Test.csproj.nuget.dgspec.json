@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ykim1059\\Downloads\\VideoSelection-FinalSprint\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj": {}
+    "D:\\Term5\\PROG3050 MS Enterprise\\MovieApp_VersionControl\\FinalSprintUI\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ykim1059\\Downloads\\VideoSelection-FinalSprint\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj": {
+    "D:\\Term5\\PROG3050 MS Enterprise\\MovieApp_VersionControl\\FinalSprintUI\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ykim1059\\Downloads\\VideoSelection-FinalSprint\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj",
+        "projectUniqueName": "D:\\Term5\\PROG3050 MS Enterprise\\MovieApp_VersionControl\\FinalSprintUI\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj",
         "projectName": "MovieApp.Test",
-        "projectPath": "C:\\Users\\Ykim1059\\Downloads\\VideoSelection-FinalSprint\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj",
-        "packagesPath": "C:\\Users\\Ykim1059\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ykim1059\\Downloads\\VideoSelection-FinalSprint\\VideoSelection-FinalSprint\\MovieApp.Test\\obj\\",
+        "projectPath": "D:\\Term5\\PROG3050 MS Enterprise\\MovieApp_VersionControl\\FinalSprintUI\\VideoSelection-FinalSprint\\MovieApp.Test\\MovieApp.Test.csproj",
+        "packagesPath": "C:\\Users\\dkang4178\\.nuget\\packages\\",
+        "outputPath": "D:\\Term5\\PROG3050 MS Enterprise\\MovieApp_VersionControl\\FinalSprintUI\\VideoSelection-FinalSprint\\MovieApp.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ykim1059\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dkang4178\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

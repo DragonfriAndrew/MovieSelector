@@ -48,5 +48,11 @@ namespace MovieApp.Test
             comment.CommentId = Guid.NewGuid();
             Assert.True(await repo.Add(comment));
         }    
+
+        [Fact]
+        public async Task TestDeleteComment()
+        {
+            Assert.True(await repo.Delete(Guid.Parse(str1)));
+        }
     }
 }

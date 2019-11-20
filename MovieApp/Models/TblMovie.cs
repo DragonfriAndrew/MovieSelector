@@ -17,6 +17,7 @@ namespace MovieApp.Models
         [Required]
         public string Director { get; set; }
         [Required]
+        [DataType(DataType.Date)]
         [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:YYYY-MM-DD}")]
         public DateTime? Year { get; set; }
         public string Synopsis { get; set; }

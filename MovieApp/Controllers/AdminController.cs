@@ -160,7 +160,7 @@ namespace MovieApp.Controllers
         {
             var tblAdmin = await _adminRepository.GetSingle(id);
             await _adminRepository.Delete(id);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Authenticate));
         }
 
         private bool TblAdminExists(Guid id)

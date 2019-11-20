@@ -146,7 +146,6 @@ namespace MovieApp.Controllers
             if (ModelState.IsValid)
             {
                 tblMovie.MovieId = Guid.NewGuid();
-                //tblMovie.Year = Convert.ToDateTime(Convert.ToDateTime(tblMovie.Year).ToString("YYYY-MM-DD"));
                 await _movieRepository.Add(tblMovie);
                 return RedirectToAction(nameof(Index));
             }
@@ -226,6 +225,9 @@ namespace MovieApp.Controllers
             {
                 return NotFound();
             }
+
+            if (tblMovie.Likes == null) tblMovie.Likes = 0;
+            if (tblMovie.Dislikes == null) tblMovie.Dislikes = 0;
 
             return View(tblMovie);
         }
