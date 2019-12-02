@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzvRTMVoIPkCX9b4vm7DTFgAAAAACAAAAAAADZgAAwAAAABAAAABTs+//BLE74SlqCTo6oWdNAAAAAASAAACgAAAAEAAAAJCixfEHZmIen/Ham9W6kmaAAAAADeGKRqsZcQLYGUSyW3fJ59Ci6WHcp32sIFCOZYetVxyoyPEb6J8LwPcZjrmENdaJZlCPrnQJAxsUEL/gkoRM+lRgIGEXAaRYribYpGpIvGy0/JvNsozwGO5y9hsn6qVIRQfhwFdAL6++qTMc5Uu9ALf/RXmfWXmgiKrX0j/y6hcUAAAAkNOrQpLNUjTCQtYY9Kbnp7KVJzU=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:jamd.database.windows.net,1433%3bInitial Catalog=jamd%3bPersist Security Info=False%3bUser ID=jamd%3bPassword=Test1234%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="JAMDConnection">
+      <Value>Server=tcp:jamd.database.windows.net,1433%3bInitial Catalog=jamd%3bPersist Security Info=False%3bUser ID=jamd%3bPassword=Test1234%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MovieApp.Models.JAMDContext">
+      <Value>Server=tcp:jamd.database.windows.net,1433%3bInitial Catalog=jamd%3bPersist Security Info=False%3bUser ID=jamd%3bPassword=Test1234%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
